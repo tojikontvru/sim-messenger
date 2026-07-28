@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMO Clone</string>
+    <string name="get_started">Get Started</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="send_code">Send Code</string>
+    <string name="enter_code">Enter Verification Code</string>
+    <string name="verify">Verify</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="continue_text">Continue</string>
+    <string name="chats">Chats</string>
+    <string name="new_chat">New Chat</string>
+    <string name="logout">Logout</string>
+    <string name="type_message">Type a message...</string>
+    <string name="search_by_phone">Search by phone number</string>
+    <string name="search">Search</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="no_chats">No chats yet. Start a new conversation!</string>
+    <string name="no_messages">No messages yet. Say hello!</string>
+    <string name="voice_call">Voice Call</string>
+    <string name="video_call">Video Call</string>
+    <string name="end_call">End Call</string>
+    <string name="mute">Mute</string>
+    <string name="speaker">Speaker</string>
+    <string name="camera">Camera</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="tap_to_change">Tap to change photo</string>
+</resources>

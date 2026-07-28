@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/app/build
+/app/release
+
+# 🔒 Firebase keys - NEVER commit these!
+firebase-admin-key.json
+*.pem
+*.keystore
+*.jks
+app/google-services.json
+SIM-Messenger.apk
+
+# APK files (too large for GitHub)
+*.apk
+app-debug.apk
